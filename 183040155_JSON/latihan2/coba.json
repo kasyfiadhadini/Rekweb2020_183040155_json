@@ -1,0 +1,24 @@
+[
+	{   "nama" : "Kasyfi Adhadini",
+		"umur" : 40,
+		"nrp" : "183040155",
+		"lulus" : true,
+		"email" : "kasyfiadhadini@mail.unpas.ac.id",
+		"hobby" : [
+			"makan",
+			"membaca",
+			"tidur"]
+	},
+
+	{   "nama" : "Mugidi",
+		"umur" : 50,
+		"nrp" : "001204010",
+		"lulus" : true,
+		"email" : "mugidi@mail.unpas.ac.id",
+		"hobby" : [
+			"gaming",
+			"nongkrong",
+			"balap"]
+	}
+]		
+		
